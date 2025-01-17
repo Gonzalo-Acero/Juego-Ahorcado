@@ -6,7 +6,8 @@ Practicando y aprendiendo Python con ejercicios. Nivel `Beginner/Principiante.`
 ##### Explicacion Linea **36**
 
 ~~~
-*Letras adivinadas*
+
+**Letras adivinadas**
 
 ' '.join({'a', 'b', 'c'}) -> 'A B C'
 ~~~
